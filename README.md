@@ -80,7 +80,7 @@ Simple HTML-based travel itinerary builder.
 ### 🌐 Let’s Collaborate or Connect
 
 - 💬 DM me on Instagram: [@travelswithkrishna](https://instagram.com/travelswithkrishna)
-- 📩 Email: krishnasathvikm [@] gmail [.] com
+- 📩 Email: krishnasathvikm@gmail.com
 - 🌍 Website: [travelswithkrishna.com](https://travelswithkrishna.com)
 
 ---
