@@ -15,9 +15,9 @@
 
 ### 🚀 About Me
 
-- 🛠️ I’m a Data Engineer passionate about solving real-world problems with data, cloud, and automation.
-- 🌌 In my free time, I capture the stars through astrophotography and explore U.S. national parks.
-- ✍️ I write guides on tech, travel, and photography on [Medium](https://medium.com/@codebykrishna).
+- 🛠️ Data Engineer passionate about solving real-world problems with data, cloud, and automation.
+- 🌌 Astrophotographer exploring the cosmos through the lens.
+- ✍️ Blogger on tech, travel, and photography at [Medium](https://medium.com/@codebykrishna).
 - 🌱 Currently learning about real-time fraud detection systems, scalable cloud architecture, and AI integration.
 
 ---
@@ -46,10 +46,6 @@ Explore all 63 U.S. National Parks with map integration, travel tips, and commun
 Track your job applications, interview progress, and goals visually in the browser.  
 **Tech**: HTML, CSS, JavaScript, IndexedDB, Chart.js
 
-#### 🧠 [Real-Time Fraud Detection](https://github.com/KrishnaSathvik/fraud-detection-pipeline) *(coming soon)*  
-Simulates real-time transactions and flags suspicious activity using Kafka and Spark.  
-**Tech**: Kafka, Apache Spark, Python, PostgreSQL
-
 #### 💰 [Finance Tracker Pipeline](https://github.com/KrishnaSathvik/finance-tracker-pipeline)  
 Process, transform, and analyze expense data using Python and pandas.  
 **Tech**: Python, pandas, SQLite
@@ -58,9 +54,9 @@ Process, transform, and analyze expense data using Python and pandas.
 Use ML and deep learning to predict stock market trends.  
 **Tech**: Jupyter Notebook, scikit-learn, Keras, LSTM
 
-#### 📅 [Travel Planner](https://github.com/KrishnaSathvik/travel-planner)  
-Simple HTML-based travel itinerary builder.  
-**Tech**: HTML, CSS, JavaScript
+#### 🧠 [Market Basket Analysis](https://github.com/KrishnaSathvik/market-basket-analysis)  
+Analyze purchasing patterns with association rule mining and FP-Growth.  
+**Tech**: Python, pandas, mlxtend, Streamlit
 
 ---
 
