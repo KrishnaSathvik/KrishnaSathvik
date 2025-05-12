@@ -63,7 +63,9 @@ Analyze purchasing patterns with association rule mining and FP-Growth.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KrishnaSathvik&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaSathvik&show_icons=true&theme=react" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaSathvik&theme=react" />
 </p>
 
 ---
