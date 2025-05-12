@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krishna-sathvik"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/krishnasathvik/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://instagram.com/travelswithkrishna"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram"></a>
   <a href="https://medium.com/@codebykrishna"><img src="https://img.shields.io/badge/-Medium-black?style=flat&logo=medium"></a>
   <a href="https://travelswithkrishna.com"><img src="https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=google-chrome"></a>
