@@ -67,10 +67,6 @@ Simple HTML-based travel itinerary builder.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishnaSathvik&theme=radical" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KrishnaSathvik&theme=react-dark" width="100%"/>
 </p>
 
