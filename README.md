@@ -190,13 +190,6 @@ I'm always excited to collaborate on:
 * 🧠 SaaS Product Development
 * 🌌 Astrophotography & Travel Tech
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krishnasathvik/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/travelswithkrishna)
-[![Email](https://img.shields.io/badge/Email-krishnasathvikm@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:krishnasathvikm@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.krishnasathvik.com/)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=KrishnaSathvik&style=for-the-badge&color=blue" alt="Profile Views"/>
