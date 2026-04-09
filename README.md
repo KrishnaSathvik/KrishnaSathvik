@@ -181,6 +181,18 @@ Purchasing pattern discovery using FP-Growth with interactive Streamlit dashboar
 
 ---
 
+## 📎 Code Snippets & Gists
+ 
+Production-ready templates and cheat sheets — copy-paste into your own projects.
+ 
+| Gist | Description |
+|---|---|
+| [🟠 PySpark Medallion Template](https://gist.github.com/KrishnaSathvik/f65563c0223983daae4fbed35a88d9e4) | Bronze→Silver→Gold pipeline with Delta Lake MERGE |
+| [🟢 dbt Testing Cheat Sheet](https://gist.github.com/KrishnaSathvik/071debddfce2389b75e9cc3a2302eaf0) | Generic, singular, custom tests + source freshness |
+| [⚫ Kafka Producer/Consumer](https://gist.github.com/KrishnaSathvik/310bcf17984d110271c579201f4c12f4) | Production config with error handling & delivery guarantees |
+| [🔵 Azure Databricks Best Practices](https://gist.github.com/KrishnaSathvik/1cf08191fa30373adb5adaf9dbdd7d59) | Cluster config, Delta Lake, ZORDER, secrets, Unity Catalog |
+| [🌀 Airflow DAG Template](https://gist.github.com/KrishnaSathvik/c732da726b48e368f4487fa61b88e1e4) | Branching, TaskFlow API, dynamic mapping, Spark Submit |
+
 ## 📊 GitHub Stats
 
 <div align="center">
