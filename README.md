@@ -208,7 +208,7 @@ Topics I cover: Azure Databricks · dbt · RAG & LLMs · Medallion Architecture 
 
 | Certification | Issuer | Status |
 |---|---|---|
-| 🤖 [Claude Code in Action](https://www.linkedin.com/learning/certificates/fstty9o9mc5i) | Anthropic | ✅ Feb 2026 |
+| 🤖 [Claude Code in Action](https://verify.skilljar.com/c/fstty9o9mc5i) | Anthropic | ✅ Feb 2026 |
 | 💜 [Vibe Coding — L4: Platinum](https://www.linkedin.com/in/krishnasathvik/) | Lovable | ✅ Mar 2026 |
 | 🟦 [Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/en-us/users/krishnamantripragada/credentials/2ca6d7588001cc9f) | Microsoft | ✅ Active |
 | 🟦 [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/krishnamantripragada/credentials/61b6fe700a01ec6) | Microsoft | ✅ Active |
