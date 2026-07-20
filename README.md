@@ -6,7 +6,7 @@
 
 I build scalable data platforms, real-time systems, and AI-powered products that turn complex information into useful experiences.
 
-[Portfolio](https://www.krishnasathvik.com/) · [LinkedIn](https://www.linkedin.com/in/krishnasathvik/) · [Medium](https://medium.com/@codebykrishna) · [X](https://x.com/latentengineer_) · [Email](mailto:krishnasathvikm@gmail.com)
+[Portfolio](https://www.krishnasathvik.com/) · [LinkedIn](https://www.linkedin.com/in/krishnasathvik/) · [Medium](https://medium.com/@codebykrishna) · [X](https://x.com/codebykrishna) · [Email](mailto:krishnasathvikm@gmail.com)
 
 </div>
 
