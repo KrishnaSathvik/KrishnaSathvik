@@ -1,14 +1,24 @@
+
 <div align="center">
 
-# Krishna
+# Krishna Sathvik
 
-[LinkedIn](https://www.linkedin.com/in/krishnasathvik/) · [Medium](https://medium.com/@codebykrishna) · [Email](mailto:krishnasathvikm@gmail.com)
+Building software across AI, developer tools, and data.
+
+[Website](https://www.krishnasathvik.com) · [LinkedIn](https://www.linkedin.com/in/krishnasathvik/) · [Writing](https://medium.com/@codebykrishna)
 
 </div>
 
-## Featured builds
+## Selected projects
 
-- **[TrailVerse](https://www.nationalparksexplorerusa.com/)** — Discover national parks and plan trips with AI.
-- **[Runtime.school](https://www.runtime.school/)** — Learn SQL, Python, and PySpark by writing real code.
-- **[StackPulse](https://stackpulsecli.com/)** — See how you use AI coding tools, right from your machine.
-- **[Depikt](https://www.depikt.app/)** — Create images and explore better visual prompts.
+**[TrailVerse](https://www.nationalparksexplorerusa.com/)**  
+Discover national parks and plan trips with live park information, maps, and AI.
+
+**[Runtime.school](https://www.runtime.school/)**  
+Practice SQL, Python, and PySpark in an interactive coding environment.
+
+**[StackPulse](https://stackpulsecli.com/)**  
+A local-first CLI for understanding usage across AI coding tools.
+
+**[Depikt](https://www.depikt.app/)**  
+A creative workspace for developing, refining, and exploring image prompts.
