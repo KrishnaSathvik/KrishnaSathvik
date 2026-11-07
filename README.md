@@ -2,8 +2,6 @@
 
 # Krishna
 
-I love building things.
-
 [LinkedIn](https://www.linkedin.com/in/krishnasathvik/) · [Medium](https://medium.com/@codebykrishna) · [Email](mailto:krishnasathvikm@gmail.com)
 
 </div>
